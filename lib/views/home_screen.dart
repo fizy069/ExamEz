@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'selected_courses_screen.dart';
-import 'course.dart';
+import '../utilities/course.dart';
 
 
 class HomeScreen extends StatefulWidget {

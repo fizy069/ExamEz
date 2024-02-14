@@ -1,4 +1,4 @@
-import 'package:exam_ezx/course.dart';
+import 'package:exam_ezx/utilities/course.dart';
 import 'package:flutter/material.dart';
  // Import the Course class
 
